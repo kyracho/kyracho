@@ -7,9 +7,7 @@
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LATEX](https://img.shields.io/badge/LATEX?logo=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Flatex6119.logowik.com.webp)
 <!-- ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
@@ -32,7 +30,7 @@
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![ZOOM](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Stack Exchange](https://aleen42.github.io/badges/src/stackexchange.svg)
-![Reddit](https://aleen42.github.io/badges/src/stackexchange.svg)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Google +](https://aleen42.github.io/badges/src/google_plus.svg)
 ![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)
 
