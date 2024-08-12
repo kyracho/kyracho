@@ -9,7 +9,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![LATEX](https://img.shields.io/badge/LATEX?logo=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Flatex6119.logowik.com.webp)
+![LATEX](https://img.shields.io/badge/LATEX?logo=LaTeX)
+
 <!-- ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) -->
 <!-- ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
