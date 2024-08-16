@@ -35,6 +35,7 @@
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Google +](https://aleen42.github.io/badges/src/google_plus.svg)
 ![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)
+![Physics Forums](https://img.shields.io/badge/-PhysicsForums-blue%20)
 
 #### Social 
 
