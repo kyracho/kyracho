@@ -35,7 +35,7 @@
 ![ZOOM](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Stack Exchange](https://img.shields.io/badge/%20%20-Stack%20Exchange-blue?style=for-the-badge&logo=stackexchange)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Google +](https://aleen42.github.io/badges/src/google_plus.svg)
+![Google +](https://img.shields.io/badge/%20%20-Google%2B-red?style=for-the-badge&logo=google)
 ![Stack Overflow](https://img.shields.io/badge/%20%20-Stack%20Overflow-white?style=for-the-badge&logo=stackoverflow)
 ![Physics Forums](https://img.shields.io/badge/%20%20-Physics%20Forums-blue?style=for-the-badge)
 
