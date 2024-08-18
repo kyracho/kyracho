@@ -33,11 +33,11 @@
 ![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![ZOOM](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Stack Exchange](https://aleen42.github.io/badges/src/stackexchange.svg)
+![Stack Exchange](https://img.shields.io/badge/%20%20-Stack%20Exchange-blue?style=for-the-badge&logo=stackexchange)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Google +](https://aleen42.github.io/badges/src/google_plus.svg)
-![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)
-![Physics Forums](https://img.shields.io/badge/-Physics%20Forums-blue%20)
+![Stack Overflow](https://img.shields.io/badge/%20%20-Stack%20Overflow-white?style=for-the-badge&logo=stackoverflow)
+![Physics Forums](https://img.shields.io/badge/%20%20-Physics%20Forums-blue?style=for-the-badge)
 
 #### Social 
 
