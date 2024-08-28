@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyracho&layout=donut)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyracho&layout=donut&border_color=ffffff&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) -->
