@@ -32,12 +32,6 @@
 ![Stack Overflow](https://img.shields.io/badge/%20%20-Stack%20Overflow-white?style=for-the-badge&logo=stackoverflow)
 ![Physics Forums](https://img.shields.io/badge/%20%20-Physics%20Forums-blue?style=for-the-badge)
 
-#### Socials
-
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 
 
 
