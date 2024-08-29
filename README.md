@@ -4,8 +4,6 @@ Recently I've been spending my days working on personal projects, learning new c
 
 My goal for September is to build something in a hackathon and contribute to open source projects on GitHub.  
 
-In my free time, you can find me playing the piano or riding my bicycle in the early hours of the morning. 
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyracho&layout=donut&border_color=ffffff&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
