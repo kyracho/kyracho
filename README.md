@@ -1,6 +1,6 @@
 ### Hi there 👋 it's nice to e-meet you
 
-Recently I've been spending my days working on personal projects, learning new coding language/technologies. 
+Recently I've been spending my days working on personal projects and learning new coding language/technologies. 
 
 My goal for September is to build something in a hackathon and contribute to open source projects on GitHub.  
 
