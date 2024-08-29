@@ -2,7 +2,7 @@
 
 Recently I've been spending my days working on personal projects and learning new coding language/technologies. 
 
-My goal for September is to build something in a hackathon and contribute to open source projects on GitHub.  
+My goal for September is to build something in a hackathon, create a few applications using GenAI, and contribute to open source projects on GitHub.  
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyracho&layout=donut&border_color=ffffff&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
 
