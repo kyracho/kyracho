@@ -1,9 +1,10 @@
 ### Hi there 👋 it's nice to e-meet you
 
 Recently I've been spending my days working on personal projects, learning new coding language/technologies. 
+
 My goal for September is to build something in a hackathon and contribute to open source projects on GitHub.  
 
-On my free tie, you can find me playing the piano or riding my bicycle in the early hours of the morning. 
+On my free time, you can find me playing the piano or riding my bicycle in the early hours of the morning. 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyracho&layout=donut&border_color=ffffff&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
 
