@@ -1,6 +1,6 @@
 ### Hi there 👋 it's nice to e-meet you
 
-Recently I've been spending my days working on personal projects and learning new coding languages andtechnologies. I find learning new things kind of fun. 
+Recently I've been busy working on personal projects and learning new coding languages and technologies. I find learning new things kind of fun. 
 
 My goal for September is to build something in a hackathon, create a few applications using GenAI, and contribute to open source projects on GitHub.  
 
