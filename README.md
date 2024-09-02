@@ -16,7 +16,7 @@ My goal for September is to build something in a hackathon, create a few applica
 <!-- C# https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white -->
 <!-- Java ttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white-->
 
-#### Technologies
+<!--#### Technologies
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/%20%20-Flask-blue?style=for-the-badge&logo=flask)
@@ -24,7 +24,7 @@ My goal for September is to build something in a hackathon, create a few applica
 <!-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) -->
 <!-- ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-222?&logo=apache-hadoop&logoColor=66CCFF)-->
 <!-- ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) -->
-
+<!--
 #### Groups
 
 ![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -34,7 +34,7 @@ My goal for September is to build something in a hackathon, create a few applica
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Google +](https://img.shields.io/badge/%20%20-Google%2B-red?style=for-the-badge&logo=google)
 ![Stack Overflow](https://img.shields.io/badge/%20%20-Stack%20Overflow-white?style=for-the-badge&logo=stackoverflow)
-![Physics Forums](https://img.shields.io/badge/%20%20-Physics%20Forums-blue?style=for-the-badge)
+![Physics Forums](https://img.shields.io/badge/%20%20-Physics%20Forums-blue?style=for-the-badge)-->
 
 
 
