@@ -2,7 +2,7 @@
 
 Recently, I've been busy working on personal projects and learning new coding languages and technologies. 
 
-My goal for September is to build something in a hackathon, create a few applications using GenAI, and contribute to open source projects on GitHub.  
+My goal for September is to build something in a hackathon, create a few full stack applications that use GenAI, and contribute to open source projects on GitHub.  
 
 
 [![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
