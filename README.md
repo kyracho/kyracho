@@ -1,4 +1,4 @@
-### Hi there 👋 it's nice to e-meet you
+### Hi there 👋 it's nice to e-meet you.
 
 Recently, I've been busy working on personal projects and learning new coding languages and technologies. 
 
