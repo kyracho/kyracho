@@ -1,9 +1,8 @@
 ### Hi there 👋 it's nice to e-meet you.
 
-Recently, I've been busy working on personal projects and learning new coding languages and technologies. 
+Recently, I've been busy working on personal projects and learning new coding languages and technologies. I am happiest when I am creating something. 
 
-My goal for September is to build something in a hackathon, create a few full stack applications that use GenAI, contribute to open source projects on GitHub, and study DSA. 
-
+My goal for September is to build something in a hackathon, create a full stack application and a simple game using c++, contribute to open source projects on GitHub, and study DSA. The application I am currently working on is Task Tracker, which is a Dockeried app that uses an Angular frontend, a Java backend and Auth0. 
 
 [![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%2030%20Day%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
