@@ -4,7 +4,7 @@ Recently, I've been busy working on personal projects and learning new coding la
 
 My goal for November is to continue contributing to large codebases, especially Matplotlib and Elastic. And I would like to continue to get better at DSA. 
 
-[![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%2030%20Day%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%2030%20Day%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast&mode=weekly)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kyracho&theme=dark)](https://git.io/streak-stats)
