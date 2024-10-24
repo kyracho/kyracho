@@ -7,7 +7,7 @@ My goal for November is to continue contributing to large codebases, especially 
 [![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%2030%20Day%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast&mode=weekly)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-&nbsp;&nbsp;&nbsp [![GitHub Streak](https://streak-stats.demolab.com/?user=kyracho&theme=dark)](https://git.io/streak-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=kyracho&theme=dark)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyracho&layout=donut&border_color=ffffff&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
