@@ -2,8 +2,6 @@
 
 Recently, I've been busy working on personal projects and learning new coding languages and technologies. I am happiest when I am creating something. 
 
-My goal for November is to continue contributing to large codebases, especially Matplotlib and Elastic, and study data structures and algorithms. 
-
 [![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%2030%20Day%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast&mode=weekly)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
