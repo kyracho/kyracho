@@ -1,6 +1,13 @@
-### Hi there 👋 it's nice to e-meet you.
+### Hi 👋 it's nice to e-meet you
 
-Recently, I've been busy working on personal projects and learning new coding languages and technologies. I am happiest when I am creating something. 
+I've built applications from start to finish using these technologies:
+
+Hosting platforms: Google Cloud Platform, Azure, AWS, Heroku
+Languages: Java, Javascript, Python, Go, Typescript, Swift
+Development tools / frameworks: Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD, Unit Tests, Git
+Databases: Local storage, MySQL, MongoDB, PostgreSQL, NoSQL
+
+I also contribute to source projects. My main repositories are Kibana and Matplotlib, where I hope to keep contributing and become more impactful.
 
 [![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%2030%20Day%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast&mode=weekly)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
