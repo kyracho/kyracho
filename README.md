@@ -10,7 +10,7 @@ Development tools / frameworks: Vue, Angular, Node/Express, React, Spring Boot, 
 
 Databases: Local storage, MySQL, MongoDB, PostgreSQL, NoSQL
 
-I also contribute to source projects. My main repositories are Kibana and Matplotlib, where I hope to keep contributing and become more impactful.
+I contribute to source projects, particularly Kibana and Matplotlib!
 
 [![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%2030%20Day%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast&mode=weekly)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
