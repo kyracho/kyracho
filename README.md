@@ -2,13 +2,13 @@
 
 I've built full-stack applications from start to finish using these technologies:
 
-Hosting platforms: Google Cloud Platform, Azure, AWS, Heroku
+*Hosting platforms:* Google Cloud Platform, Azure, AWS, Heroku
 
-Languages: Java, Javascript, Python, Go, Typescript
+*Languages:* Java, Javascript, Python, Go, Typescript
 
-Development tools / frameworks: Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD, Unit Tests, Git
+*Development tools / frameworks:* Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD, Unit Tests, Git
 
-Databases: Local storage, MySQL, MongoDB, PostgreSQL, NoSQL
+*Databases:* Local storage, MySQL, MongoDB, PostgreSQL, NoSQL
 
 I contribute to source projects, particularly Kibana and Matplotlib!
 
