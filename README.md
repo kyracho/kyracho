@@ -6,7 +6,7 @@ I've built full-stack applications from start to finish using these technologies
 
 **Languages:** Java, Javascript, Python, Go, Typescript
 
-**Development tools / frameworks:** Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD, Unit Tests, Git
+**Development tools / frameworks:** Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD pipelines, Jest, Pytest, Git
 
 **Databases:** Local storage, MySQL, MongoDB, PostgreSQL, NoSQL
 
