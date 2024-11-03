@@ -10,7 +10,7 @@ I've built full-stack applications from start to finish using these technologies
 
 **Databases:** MySQL, MongoDB, PostgreSQL, NoSQL (and client side storage)
 
-I contribute to source projects, particularly Kibana and Matplotlib!
+I contribute to source projects often, particularly Kibana and Matplotlib!
 
 [![Kyra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyracho&custom_title=Kyra's%2030%20Day%20Github%20Activity%20Graph&hide_border=true&theme=high-contrast&mode=weekly)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
