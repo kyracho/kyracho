@@ -1,9 +1,9 @@
 ### Hi 👋 it's nice to e-meet you
 
-I've built applications from start to finish using these technologies:
+I've built full-stack applications from start to finish using these technologies:
 
 Hosting platforms: Google Cloud Platform, Azure, AWS, Heroku
-Languages: Java, Javascript, Python, Go, Typescript, Swift
+Languages: Java, Javascript, Python, Go, Typescript
 Development tools / frameworks: Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD, Unit Tests, Git
 Databases: Local storage, MySQL, MongoDB, PostgreSQL, NoSQL
 
