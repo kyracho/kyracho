@@ -8,7 +8,7 @@ I've built full-stack applications from start to finish using these technologies
 
 **Development tools / frameworks:** Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD pipelines, Git
 
-**Databases:** MySQL, MongoDB, PostgreSQL, NoSQL, (and local storage)
+**Databases:** MySQL, MongoDB, PostgreSQL, NoSQL (and client side storage)
 
 I contribute to source projects, particularly Kibana and Matplotlib!
 
