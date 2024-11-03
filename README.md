@@ -3,8 +3,11 @@
 I've built full-stack applications from start to finish using these technologies:
 
 Hosting platforms: Google Cloud Platform, Azure, AWS, Heroku
+
 Languages: Java, Javascript, Python, Go, Typescript
+
 Development tools / frameworks: Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD, Unit Tests, Git
+
 Databases: Local storage, MySQL, MongoDB, PostgreSQL, NoSQL
 
 I also contribute to source projects. My main repositories are Kibana and Matplotlib, where I hope to keep contributing and become more impactful.
