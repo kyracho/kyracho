@@ -1,16 +1,18 @@
 ### Hi 👋 it's nice to e-meet you
 
-I've built full-stack applications from start to finish using these technologies:
+I've built full-stack and simpler applications from start to finish using these technologies:
 
 **Hosting platforms:** Google Cloud Platform, Azure, AWS, Heroku
 
-**Languages:** Java, Javascript, Python, Go, Typescript
+**Languages:** Java, Javascript, Python, Go, Typescript, Swift, C++
 
-**Development tools / frameworks:** Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD pipelines, Git
+**Development tools / frameworks:** Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD pipelines, Git, unit tests
 
 **Databases:** MySQL, MongoDB, PostgreSQL, NoSQL
 
 **Authentication:** Auth0
+
+I have hands-on experience with numerical analysis and machine learning tools.
 
 I contribute to source projects often, particularly Kibana and Matplotlib!
 
