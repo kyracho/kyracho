@@ -12,7 +12,7 @@ I've built full-stack (and a few watchOS) applications from start to finish usin
 
 **Authentication:** Auth0
 
-I have hands-on experience with numerical analysis and machine learning tools.
+I have hands-on experience with numerical analysis and machine learning.
 
 I contribute to source projects often, particularly Kibana and Matplotlib!
 
