@@ -8,7 +8,7 @@ I've built full-stack web and watchOS applications from start to finish using th
 
 **Development tools / frameworks:** Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD pipelines, Git, unit tests
 
-**Databases:** MySQL, MongoDB, PostgreSQL, NoSQL
+**Databases:** MySQL, MongoDB, PostgreSQL
 
 **Authentication:** Auth0
 
