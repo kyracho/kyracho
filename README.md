@@ -1,6 +1,6 @@
 ### Hi 👋 it's nice to e-meet you
 
-I've built full-stack web and watchOS applications from start to finish using these technologies:
+I've desgined, built, hosted, and maintained full-stack web and watchOS applications from start to finish using these technologies:
 
 **Hosting platforms:** Google Cloud Platform, Azure, AWS, Heroku
 
