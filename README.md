@@ -4,7 +4,7 @@ I've desgined, built, hosted, and maintained full-stack web and watchOS applicat
 
 **Hosting platforms:** Google Cloud Platform, Azure, AWS, Heroku
 
-**Languages:** Java, Javascript, Python, Go, Typescript, Swift, C++
+**Languages:** Java, Javascript, Python, Go, Typescript, PHP, Swift, C++
 
 **Development tools / frameworks:** Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD pipelines, Git, unit tests
 
