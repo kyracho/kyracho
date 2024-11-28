@@ -6,7 +6,7 @@ I've desgined, built, hosted, and maintained full-stack web and watchOS applicat
 
 **Languages:** Java, Javascript, Python, Go, Typescript, PHP, Swift, C++
 
-**Development tools / frameworks:** Vue, Angular, Node/Express, React, Spring Boot, Flask, Docker, CI/CD pipelines, Git, unit tests
+**Development tools / frameworks:** Vue, Angular, Node/Express, React, Bootstrap, Spring Boot, Flask, Docker, CI/CD pipelines, Git, unit tests
 
 **Databases:** MySQL, MongoDB, PostgreSQL
 
